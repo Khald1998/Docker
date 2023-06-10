@@ -1,7 +1,4 @@
-# README.md
-
-## Title
-Go Docker Application: "IT IS ALIVE!"
+# First Go Application in Docker
 
 ## Background
 This repository contains a simple "Hello, World!" equivalent application in Go, using Docker for containerization. The purpose of this application is to demonstrate the very basics of Go programming and Docker containerization. Upon execution, the application prints a humorous "IT IS ALIVE!" message to the standard output.
